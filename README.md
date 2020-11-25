@@ -48,5 +48,5 @@ Para clonar o projeto rode via HHTPS rode o comando:
 Caso tenha encontrado algum bug ou queira contribuir com o código, sinta-se à vontade para abrir uma Issue ou entrar em contato comigo.
 
 
-Made with love by [Raíla Andrade](https://github.com/RailaAndrade) and [Leonardo Alves de Andrade]((https://github.com/LeonardoAlvesDeAndrade)💜🚀
+Made with love by [Raíla Andrade](https://github.com/RailaAndrade) and [Leonardo Alves de Andrade](https://github.com/LeonardoAlvesDeAndrade)💜🚀
 
